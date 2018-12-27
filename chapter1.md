@@ -1,6 +1,19 @@
 ---
-title: 'Chapter Title Here'
+title: 'Working with DATE/TIME Functions and Operators'
 description: 'Chapter description goes here.'
+---
+
+## Functions for manipulating date/time data
+
+```yaml
+type: VideoExercise
+key: 11fcc5db9e
+xp: 50
+```
+
+`@projector_key`
+57f28aba5697c148d36c7cb7dd45b7b3
+
 ---
 
 ## Example coding exercise
@@ -40,16 +53,3 @@ This is an example exercise.
 ```{python}
 
 ```
-
----
-
-## Functions for manipulating date/time data
-
-```yaml
-type: VideoExercise
-key: 11fcc5db9e
-xp: 50
-```
-
-`@projector_key`
-57f28aba5697c148d36c7cb7dd45b7b3
