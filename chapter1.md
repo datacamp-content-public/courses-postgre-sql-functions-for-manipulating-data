@@ -1,6 +1,7 @@
 ---
 title: 'Working with DATE/TIME Functions and Operators'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Functions for manipulating date/time data
